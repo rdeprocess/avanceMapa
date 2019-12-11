@@ -1,0 +1,32 @@
+{
+  "name": "avance-mapa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "avance",
+    "mapa"
+  ],
+  "author": "Daniel Escoto",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.4"
+  },
+  "dependencies": {
+    "devDependencies": {
+      "electron": "^4.2.10"
+    },
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.17.1",
+    "nodejs": "0.0.0",
+    "remote": "^0.2.6",
+    "sqlite3": "^4.1.1"
+  },
+  "asar": "false"
+}
