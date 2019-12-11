@@ -4,7 +4,7 @@ const { app, BrowserWindow, Menu } = require('electron')
 // se cerrará automáticamente cuando el objeto JavaScript sea eliminado por el recolector de basura.
 let win
 let getids
-let local = false;
+let local = true;
 let web = false;
 function createWindow () {
 
